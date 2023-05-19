@@ -34,8 +34,6 @@ button {
 .gallery-item {
   flex-basis: calc(33.33% - 20px);
   margin-bottom: 20px;
-  height: 200px;
-  overflow: hidden;
 }
 
 .gallery-image {
